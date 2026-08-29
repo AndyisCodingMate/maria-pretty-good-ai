@@ -1,0 +1,36 @@
+Call SID: CAc2368f4869490e7f06c81cdded28554c
+Date: 2026-08-26 18:08:43
+============================================================
+
+[USER]: This call may be recorded for quality and training purposes.  Thanks for calling Pivot Point Orthopedics part of pretty good AI. How may I help you today?
+
+[ASSISTANT]: Hi, I need to cancel my appointment. A family obligation came up and I can't make it.
+
+[USER]: Can I have your full name and date of birth to look up your appointment?
+
+[ASSISTANT]: My full name is Maria Santos and my date of birth is March 12, 1990.
+
+[USER]: Just to confirm, I have your name as Maria Santos and your date of birth is March 12th.  1990. Is that correct? If so, please spell your first and last name for me?
+
+[ASSISTANT]: M‑A‑R‑I‑A S‑A‑N‑T‑O‑S.
+
+[USER]: Thanks, could you please spell your last name 1 more time just to be sure I have it, right?
+
+[ASSISTANT]: S‑A‑N‑T‑O‑S.
+
+[USER]: Would you like to use your phone number to look up your record? If so, please tell me the number you have on file with us.  If you're not sure, I can confirm your name and date of birth again, which would you prefer?
+
+[ASSISTANT]: My phone number on file is +1‑682‑356‑2228.
+
+[USER]: I have your phone number as 1682356.  2228.  And your date of birth as March 12th 1990. Is that correct?
+
+[ASSISTANT]: Yes, that’s correct.
+
+[USER]: I'm unable to find your record in our system right now. I can connect you to our patient support team for help with canceling, your appointment.  Would you like me to do that?
+
+[ASSISTANT]: Yes, please connect me to patient support so I can cancel my appointment and ask about any fee.
+
+[USER]: Transferring you now. Thank you.  Hello, you've reached the pretty good. AI test line, goodbye.
+
+[ASSISTANT]: Say that again? I missed it.
+

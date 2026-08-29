@@ -1,0 +1,44 @@
+Call SID: CA168064f724b441bc9cb68620e15cc983
+Date: 2026-08-26 18:02:11
+============================================================
+
+[USER]: This call may be recorded for quality and training purposes.  Thanks for calling Pivot Point Orthopedics.  Part of pretty good AI. How may I help you today?
+
+[ASSISTANT]: Hi there! I just moved to the area and I'm looking to schedule a general checkup as a new patient.
+
+[USER]: I see you're calling from the number we have on file. Am I speaking with Maria?
+
+[ASSISTANT]: Yes, this is Maria.
+
+[USER]: Please provide your date of birth.
+
+[ASSISTANT]: My date of birth is March 12, 1990.
+
+[USER]: Just to confirm you'd like to schedule a new patient consultation for a general checkup. Is that correct?
+
+[ASSISTANT]: Yes, that's correct.
+
+[USER]: Do you have a specific provider? You'd like to see or are you open to the first available?
+
+[ASSISTANT]: I'm open to seeing the first available provider.
+
+[USER]: We have several openings this week starting. As soon as tomorrow would you prefer a morning or afternoon appointment?
+
+[ASSISTANT]: I prefer a morning appointment.
+
+[USER]: Tomorrow Thursday, we have a 9:45 a.m. slot available with Aber at Pivot Point Orthopedics. Would you like a book that time?
+
+[ASSISTANT]: I appreciate it, but could I schedule a general checkup with a primary care provider instead?
+
+[USER]: At Pivot Point Orthopedics, we handle Orthopedic care. If you're looking for a general checkup with a primary care provider, I recommend reaching out to a primary care clinic in your area. Would you like help finding contact information for a local Primary Care office.
+
+[ASSISTANT]: Yes, please send me a contact number for a primary care office.
+
+[USER]: I don't have direct access to local Primary Care office contacts, but you can search online for primary care provider near me or check with your health insurance for in network options if you'd like I can connect you to our office staff for more help. Would you like to speak with someone from our team?
+
+[ASSISTANT]: Yes, I'd like to speak with someone from your team.
+
+[USER]: Tesla you now. Thank you.  Hello, you've reached the pretty good. AI test line, goodbye.
+
+[ASSISTANT]: Thank you, goodbye.
+

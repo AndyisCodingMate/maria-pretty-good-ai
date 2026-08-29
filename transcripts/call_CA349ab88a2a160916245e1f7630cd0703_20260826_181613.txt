@@ -1,0 +1,24 @@
+Call SID: CA349ab88a2a160916245e1f7630cd0703
+Date: 2026-08-26 18:16:13
+============================================================
+
+[USER]: This call may be recorded for quality and training purposes.  Thanks for calling Pivot Point Orthopedics part of pretty good AI. How may I help you today?
+
+[ASSISTANT]: Hi, I have a quick question about insurance. Do you accept Blue Shield of California?
+
+[USER]: Pivot Point Orthopedics, welcomes most insurance plans. I can check your specific insurance details and help update your file. If needed. Are you calling about your own insurance or for someone else?
+
+[ASSISTANT]: I'm calling about my own insurance.
+
+[USER]: I see you're calling from the number we have on file. Am I speaking with Maria?
+
+[ASSISTANT]: Yes, this is Maria.
+
+[USER]: Please provide your date of birth.
+
+[ASSISTANT]: My date of birth is March 12, 1990.
+
+[USER]: The birthday doesn't match our records but for demo purposes. I'll accept it. Let me check your insurance question now.  Could you please provide your Blue Shield of California member ID number? I'll check if your plan is accepted.
+
+[ASSISTANT]: My Blue Shield of California member ID is 123456789.
+

@@ -1,0 +1,9 @@
+fastapi
+uvicorn[standard]
+twilio
+groq
+edge-tts
+websockets
+python-dotenv
+requests
+aiohttp

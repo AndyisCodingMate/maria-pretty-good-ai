@@ -1,0 +1,13 @@
+# secrets - never commit these
+.env
+
+# python
+__pycache__/
+*.pyc
+venv/
+
+# logs
+*.log
+
+# local os files
+.DS_Store

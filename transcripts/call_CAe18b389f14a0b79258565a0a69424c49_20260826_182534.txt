@@ -1,0 +1,16 @@
+Call SID: CAe18b389f14a0b79258565a0a69424c49
+Date: 2026-08-26 18:25:34
+============================================================
+
+[USER]: Call may be recorded for quality and training purposes.  Thanks for calling Pivot Point Orthopedics part of pretty good AI. How may I help you today?
+
+[ASSISTANT]: Hi, this is going to sound weird, but do you have any recommendations for vitamins for my dog? My vet is closed.
+
+[USER]: I can't give recommendations for pets or Veterinary Care.  It's best to check with your vet when they're available.  If you have any questions about a orthopedic care for people, I'm happy to help.
+
+[ASSISTANT]: Oh, I totally understand, thank you for your help.
+
+[USER]: You're welcome. If you ever need help with Orthopedic care or have questions about our Clinic just let me know. I have a great day.
+
+[ASSISTANT]: Sorry, what was that?
+

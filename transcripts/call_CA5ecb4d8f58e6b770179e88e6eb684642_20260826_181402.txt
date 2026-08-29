@@ -1,0 +1,36 @@
+Call SID: CA5ecb4d8f58e6b770179e88e6eb684642
+Date: 2026-08-26 18:14:02
+============================================================
+
+[USER]: This call may be recorded for quality and training purposes.  Thanks for calling Pivot Point Orthopedics part of pretty good AI. How may I help you today?
+
+[ASSISTANT]: Hi, I have a question about your office hours. What time do you close today?
+
+[USER]: today is Wednesday, the clinic is open from 12:00 p.m. to 7:00 p.m., so we close at 7:00 p.m.  Is there anything else I can help with?
+
+[ASSISTANT]: Are you open on Saturdays or Sundays?
+
+[USER]: We are not open on Saturdays or Sundays. The clinic is open Monday through Friday. Would you like details about our weekday hours?
+
+[ASSISTANT]: Is there an on‑call nurse or doctor available after regular hours?
+
+[USER]: There is no on call nurse or doctor available after regular hours at Pivot Point Orthopedics if you have an urgent medical need please contact your primary care provider or call 911 for emergencies if you need to schedule an appointment or have a general question, I can help with that.
+
+[ASSISTANT]: Thank you for the information.
+
+[USER]: You're welcome. If you have any other questions or need help with appointments, just let me know.
+
+[ASSISTANT]: I didn't quite hear you.
+
+[USER]: No problem. If you have any other questions or need help with appointments, just let me know.
+
+[ASSISTANT]: Could you say that one more time?
+
+[USER]: Of course, if you need help with appointments or have more questions I'm here to help.
+
+[ASSISTANT]: Thank you, I have no further
+
+[USER]: All right, have a great day.  Can you use anything else? Just give us a call?
+
+[ASSISTANT]: I'm sorry, I didn't catch that. Could you repeat?
+

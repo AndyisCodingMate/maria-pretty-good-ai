@@ -1,0 +1,56 @@
+Call SID: CAf6f10454f288e3dcbb71af100ebda0d3
+Date: 2026-08-26 18:20:05
+============================================================
+
+[USER]: This call may be recorded for quality and training purposes.  Thanks for calling Pivot Point Orthopedics part of pretty good AI. How may I help you today?
+
+[ASSISTANT]: Hi, I have a quick question about... oh, hold on one second, someone's at my door.
+
+[USER]: No problem, take your time. Let me know when you're ready to continue.
+
+[ASSISTANT]: Thank you, I’ll be right back in a moment.
+
+[USER]: Of course.  I'll be here when you're ready.
+
+[ASSISTANT]: Thanks, I’ll be right back.
+
+[USER]: Sounds good. Just let me know when you're ready to continue.
+
+[ASSISTANT]: Sorry about that! Where were we?
+
+[USER]: No worries at all. You mentioned, you had a quick question. How can I help?
+
+[ASSISTANT]: I’d like to schedule a follow‑up appointment with Dr. Lee, please.
+
+[USER]: I see you're calling from the number we have on file. Am I speaking with Maria?
+
+[ASSISTANT]: Yes, this is Maria Santos.
+
+[USER]: Thanks, Maria. Can you please provide your date of birth?
+
+[ASSISTANT]: My date of birth is March 12, 1990.
+
+[USER]: Just to confirm you'd like to schedule a follow-up appointment. Is this for a recent visit or a specific concern? You want to check back on.
+
+[ASSISTANT]: Say that again? I missed it.
+
+[USER]: No problem. Are you scheduling this follow-up? Because of a recent visit? Or is there a specific concern? You want to check back on?
+
+[ASSISTANT]: Yes, I’m scheduling a follow‑up after my recent visit to check on my knee pain.
+
+[USER]: We have several openings this week for a follow-up with Dr. Lee, do you have a preferred time of day like morning or afternoon?
+
+[ASSISTANT]: I’d prefer an afternoon slot, sometime after 2 PM.
+
+[USER]: Dr. Lee has an opening on Thursday August 27th at 3. P.m. would you like to book that slot?
+
+[ASSISTANT]: Yes, that works for me.
+
+[USER]: Your follow up with Dr. Lee is set for Thursday, August 27th, at 3, p.m. at Pivot Point Orthopedics, please bring your photo ID, insurance card, a list of your current medications and any Imaging discs. If you have them, is there anything else I can help you with today?
+
+[ASSISTANT]: No, that’s everything, thank you.
+
+[USER]: You're all set for your appointment. Have a great day. Maria.
+
+[ASSISTANT]: Thank you, goodbye.
+

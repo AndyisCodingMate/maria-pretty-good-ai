@@ -1,0 +1,52 @@
+Call SID: CA139cb9d229fcd38dd71c45f593acf0db
+Date: 2026-08-26 18:24:11
+============================================================
+
+[USER]: This call may be recorded for quality and training purposes.  Thanks for calling pit Point Orthopedics. Part of pretty good. AI. How may I help you today?
+
+[ASSISTANT]: Hi, I'm not sure if this is the right number, but I need help with... something health-related, I guess.
+
+[USER]: You've reached Pivot Point Orthopedics, we've helped with joy, muscle and bone concerns, as well as physical therapy and appointments. When you need help with today,
+
+[ASSISTANT]: Hi, I'm not sure if this is the right number, but I need help with something health-related.
+
+[USER]: You're in the right place for Orthopedic, care and physical therapy.  What can I help you with today?
+
+[ASSISTANT]: I've been feeling really tired lately and I'm not sure if I should schedule an appointment.
+
+[USER]: I could help with that.  Would you like to schedule an appointment to discuss your symptoms with 1 of our providers?
+
+[ASSISTANT]: Could you tell me what type of appointment would be best for fatigue?
+
+[USER]: For ongoing fatigue, it's best to start with a general evaluation by 1 of our orthopedic. Doctors, they can assess if your symptoms are related to Joint muscle or bone issues or if another type of care is needed.  Would you like to schedule a visit for an evaluation?
+
+[ASSISTANT]: Yes, could you let me know the earliest available dates for a general evaluation?
+
+[USER]: I see you're calling from the number. We have on file,  Am I speaking with Maria?
+
+[ASSISTANT]: Yes, this is Maria Santos.
+
+[USER]: Please provide your date of birth.
+
+[ASSISTANT]: My date of birth is March 12, 1990.
+
+[USER]: Just to confirm you'd like to book a general office. Visit to discuss your fatigue, correct.
+
+[ASSISTANT]: Yes, I’d like to book a general office visit for my fatigue.
+
+[USER]: Thank you. Maria. Do you have a specific provider? You'd like to see or are you open to the first available?
+
+[ASSISTANT]: I'm open to the first available provider.
+
+[USER]: We have openings this week in early next week, would you prefer a morning or afternoon appointment?
+
+[ASSISTANT]: Morning appointments would be best.
+
+[USER]: The earliest morning slot is Thursday. August 27th at 9:00 a.m. with Dr. Zid Ming Yue lucasi. Would you like to book that time?
+
+[ASSISTANT]: Yes, please book the Thursday August 27th 9:00 a.m. slot.
+
+[USER]: Your appointment is booked for Thursday August 27th at 9:00 a.m. with Dr. Z big new bukawski at Pivot Point Orthopedics. Please bring your photo ID and insurance card a list of current medications and any Imaging discs. You have  Is there anything else I can help you with today?
+
+[ASSISTANT]: No, that's all, thank you.
+

@@ -1,0 +1,36 @@
+Call SID: CA1deff2badb3171e46650d248f7e925df
+Date: 2026-08-26 18:05:27
+============================================================
+
+[USER]: This call may be recorded for quality and training purposes.  Thanks for calling Pivot Point Orthopedics part of pretty good AI. How may I help you today?
+
+[ASSISTANT]: Hi, I need to reschedule an appointment. A work meeting came up and I can't make my current time.
+
+[USER]: Can I get your full name and date of birth?
+
+[ASSISTANT]: My full name is Maria Santos and my date of birth is March 12, 1990.
+
+[USER]: I have your name as Maria Santos and your date of birth is March 12th. 1990. Is that correct? If so could you please spell your first? And last name for me
+
+[ASSISTANT]: M as in Mike, A as in Alpha, R as in Romeo, I as in India, A as in Alpha; S as in Sierra, A as in Alpha, N as in November, T as in Tango, O as in Oscar, S as
+
+[USER]: Could you please finish spelling your last name? For me? I heard a as an alpha as in November t, as in Tango o as in Oscar f as  But it seems to have cut off.
+
+[ASSISTANT]: S as in Sierra.
+
+[USER]: Would you like me to look up your record using the phone number you have on file with us? If so, please tell me that number  If you're not sure, I can confirm your name and date of birth. Again,  just let me know.
+
+[ASSISTANT]: My phone number is +1-682-356-2228.
+
+[USER]: I have your phone number as 16823562228 and your date of birth is March 12th. 1990, is that correct?
+
+[ASSISTANT]: Yes, that information is correct.
+
+[USER]: I'm unable to find your record in our system so I can't reschedule your appointment right now. I can connect you to our patient support team. Would you like me to do that?
+
+[ASSISTANT]: Yes, please connect me to patient support.
+
+[USER]: Transferring you now. Thank you.  Hello, you've reached the pretty good. AI test line, goodbye.
+
+[ASSISTANT]: I'm sorry, I didn't catch that. Could you repeat?
+

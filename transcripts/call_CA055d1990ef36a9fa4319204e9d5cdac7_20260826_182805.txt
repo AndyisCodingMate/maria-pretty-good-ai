@@ -1,0 +1,28 @@
+Call SID: CA055d1990ef36a9fa4319204e9d5cdac7
+Date: 2026-08-26 18:28:05
+============================================================
+
+[USER]: This call may be recorded for quality and training purposes.  Thanks for calling Pivot Point Orthopedics part of pretty good AI. How may I help you today?
+
+[ASSISTANT]: Hi, I want to schedule an appointment but I'm really nervous. This is my first time seeing a new doctor since I moved here.
+
+[USER]: I understand to get started, can you please tell me your full name and date of birth?
+
+[ASSISTANT]: My name is Maria Santos and I was born on March 12, 1990.
+
+[USER]: Just to confirm, I have your name as Maria Santos and your date of birth as March 12th 1990. Is that correct? If so, could you please spell your first? And last name for me?
+
+[ASSISTANT]: M‑A‑R‑I‑A S‑A‑N‑T‑O‑S.
+
+[USER]: Would you like to use your phone number to look up your record? Yes. So please tell me the number you have on file with us if you're not sure, just let me know and we'll confirm your name and date of birth again.
+
+[ASSISTANT]: My number on file is +1‑682‑356‑2228.
+
+[USER]: I have your phone number is 16823562228 and your date of birth is March 12th. 1990, is that correct?
+
+[ASSISTANT]: Yes, that's correct.
+
+[USER]: Transferring you now. Thank you.  Hello, you've reached the pretty good. AI test line, goodbye.
+
+[ASSISTANT]: I didn't quite hear you.
+

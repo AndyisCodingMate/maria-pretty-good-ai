@@ -1,0 +1,82 @@
+[
+  {
+    "scenario": "scheduling",
+    "scenario_id": 1,
+    "call_sid": "CA168064f724b441bc9cb68620e15cc983",
+    "status": "completed",
+    "duration": "189",
+    "recording_file": "recordings/CA168064f724b441bc9cb68620e15cc983.ogg"
+  },
+  {
+    "scenario": "rescheduling",
+    "scenario_id": 2,
+    "call_sid": "CA1deff2badb3171e46650d248f7e925df",
+    "status": "completed",
+    "duration": "176",
+    "recording_file": "recordings/CA1deff2badb3171e46650d248f7e925df.ogg"
+  },
+  {
+    "scenario": "cancellation",
+    "scenario_id": 3,
+    "call_sid": "CAc2368f4869490e7f06c81cdded28554c",
+    "status": "completed",
+    "duration": "170",
+    "recording_file": "recordings/CAc2368f4869490e7f06c81cdded28554c.ogg"
+  },
+  {
+    "scenario": "medication_refill",
+    "scenario_id": 4,
+    "call_sid": "CA106750ee789e4aa5fac55a0a2ac6d285",
+    "status": "completed",
+    "duration": "142",
+    "recording_file": "recordings/CA106750ee789e4aa5fac55a0a2ac6d285.ogg"
+  },
+  {
+    "scenario": "office_hours",
+    "scenario_id": 5,
+    "call_sid": "CA5ecb4d8f58e6b770179e88e6eb684642",
+    "status": "completed",
+    "duration": "131",
+    "recording_file": "recordings/CA5ecb4d8f58e6b770179e88e6eb684642.ogg"
+  },
+  {
+    "scenario": "insurance",
+    "scenario_id": 6,
+    "call_sid": "CA349ab88a2a160916245e1f7630cd0703",
+    "status": "completed",
+    "duration": "112",
+    "recording_file": "recordings/CA349ab88a2a160916245e1f7630cd0703.ogg"
+  },
+  {
+    "scenario": "interruption",
+    "scenario_id": 7,
+    "call_sid": "CAf6f10454f288e3dcbb71af100ebda0d3",
+    "status": "completed",
+    "duration": "214",
+    "recording_file": "recordings/CAf6f10454f288e3dcbb71af100ebda0d3.ogg"
+  },
+  {
+    "scenario": "unclear_request",
+    "scenario_id": 8,
+    "call_sid": "CA139cb9d229fcd38dd71c45f593acf0db",
+    "status": "completed",
+    "duration": "222",
+    "recording_file": "recordings/CA139cb9d229fcd38dd71c45f593acf0db.ogg"
+  },
+  {
+    "scenario": "off_script",
+    "scenario_id": 9,
+    "call_sid": "CAe18b389f14a0b79258565a0a69424c49",
+    "status": "completed",
+    "duration": "57",
+    "recording_file": "recordings/CAe18b389f14a0b79258565a0a69424c49.ogg"
+  },
+  {
+    "scenario": "emotional",
+    "scenario_id": 10,
+    "call_sid": "CA055d1990ef36a9fa4319204e9d5cdac7",
+    "status": "completed",
+    "duration": "132",
+    "recording_file": "recordings/CA055d1990ef36a9fa4319204e9d5cdac7.ogg"
+  }
+]
