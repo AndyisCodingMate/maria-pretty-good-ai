@@ -1,6 +1,9 @@
 # secrets - never commit these
 .env
 
+# user-written custom scenarios (generated at runtime)
+custom_scenario.json
+
 # python
 __pycache__/
 *.pyc

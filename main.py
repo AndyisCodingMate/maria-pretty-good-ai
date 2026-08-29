@@ -11,7 +11,7 @@ from fastapi.responses import Response
 from dotenv import load_dotenv
 
 from voice_engine import generate_response, reset_conversation
-from scenarios import get_scenario, list_scenarios
+from scenarios import get_scenario, get_custom_scenario, list_scenarios
 
 load_dotenv()
 
@@ -90,7 +90,13 @@ def classify_continue(text):
 
 def get_system_prompt(scenario_id=None):
     """Get the AI prompt for a given scenario."""
-    if scenario_id:
+    if scenario_id is not None:
+        # scenario 0 is a user-written custom scenario
+        if int(scenario_id) == 0:
+            custom = get_custom_scenario()
+            if custom:
+                return custom["prompt"]
+            print("[Server] Custom scenario file missing, using default")
         scenario_name = SCENARIO_MAP.get(scenario_id)
         if scenario_name:
             scenario = get_scenario(scenario_name)
@@ -103,7 +109,12 @@ def get_system_prompt(scenario_id=None):
 
 def get_opening(scenario_id=None):
     """Get the first thing Maria says for each scenario."""
-    if scenario_id:
+    if scenario_id is not None:
+        # scenario 0 is a user-written custom scenario
+        if int(scenario_id) == 0:
+            custom = get_custom_scenario()
+            if custom and custom.get("opening"):
+                return custom["opening"]
         scenario_name = SCENARIO_MAP.get(scenario_id)
         if scenario_name:
             scenario = get_scenario(scenario_name)
@@ -151,11 +162,17 @@ async def handle_call(request: Request):
     print(f"[Server] Call connected: {call_sid} from {from_number}")
 
     # figure out which scenario this is
+    # scenario_id 0 (or "custom") means a user-written custom scenario
     scenario_id_str = request.query_params.get("scenario_id", "1")
-    try:
-        scenario_id = int(scenario_id_str)
-    except (ValueError, TypeError):
-        scenario_id = 1
+    if scenario_id_str.lower() in ("custom", "0"):
+        scenario_id = 0
+    else:
+        try:
+            scenario_id = int(scenario_id_str)
+            if not 1 <= scenario_id <= len(SCENARIO_MAP):
+                scenario_id = 1
+        except (ValueError, TypeError):
+            scenario_id = 1
 
     system_prompt = get_system_prompt(scenario_id)
     reset_conversation()

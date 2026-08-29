@@ -22,6 +22,8 @@ realistic phone conversations, then recording and transcribing every call for re
 | File | What it does |
 |------|-------------|
 | `run_all.py` | One command to run everything: tunnel + server + all 10 calls |
+| `run_scenarios.py` | Same as above, but you pick which scenarios to call — or write your own |
+| `custom_scenario.json` | Your custom scenario (created when you use custom mode; not committed) |
 | `main.py` | FastAPI server that handles the call conversation loop |
 | `voice_engine.py` | Talks to Groq (LLM) and Edge TTS (text-to-speech) |
 | `scenarios.py` | The 10 test scenarios + Maria's personality rules |
@@ -122,6 +124,58 @@ python3 run_all.py
 
 > Note: each time the tunnel restarts the URL changes, so `run_all.py`
 > updates `SERVER_URL` in `.env` automatically. No manual steps needed.
+
+### Running a custom set of scenarios
+
+Don't want to run all 10 calls? Use `run_scenarios.py` — same tunnel/server
+setup, but you choose which scenarios to call:
+
+```bash
+# pick from an interactive menu
+python3 run_scenarios.py
+
+# run specific ones by number
+python3 run_scenarios.py 1 3 5
+
+# a range works too
+python3 run_scenarios.py 2-4
+
+# or everything
+python3 run_scenarios.py all
+```
+
+### Writing your own custom scenario (autopilot mode)
+
+You can also invent your own scenario and let Maria autopilot it — useful for
+testing the clinic's AI with a situation that isn't in the default 10.
+
+```bash
+python3 run_scenarios.py custom
+```
+
+It asks for three things:
+
+1. **Opening line** — what Maria says first when the clinic answers
+2. **Scenario name** — just a label (optional)
+3. **Instructions** — who Maria is and what her goal is (type `DONE` on its
+   own line when finished)
+
+Example:
+
+```
+Maria's opening line: Hi, I think I was double-charged on my last visit.
+
+Type Maria's instructions below ... type DONE on its own line when finished:
+You are a frustrated but polite patient who was billed twice for a visit.
+You want a refund and you want to know when it will appear.
+DONE
+```
+
+The instructions are saved to `custom_scenario.json` (not committed to git),
+the shared "stay in character" rules are appended automatically, and Maria
+then calls the clinic and plays out that scenario. It works anywhere a scenario
+number is expected — `run_scenarios.py custom` and `run_scenarios.py 0 5` both
+run your custom scenario (id `0`) plus the numbered ones.
 
 ## The 10 test scenarios
 

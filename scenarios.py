@@ -3,6 +3,13 @@ Test scenarios for Maria calling Pivot Point Orthopedics.
 Each scenario has a prompt for the AI voice agent to follow.
 """
 
+import os
+import json
+
+# where a custom user-written scenario gets saved so the server can use it
+CUSTOM_SCENARIO_FILE = os.path.join(os.path.dirname(os.path.abspath(__file__)),
+                                    "custom_scenario.json")
+
 # Universal rules for all scenarios
 _UNIVERSAL_RULES = """
 CRITICAL RULES:
@@ -409,3 +416,44 @@ def list_scenarios():
 def get_all_scenarios():
     """Return all scenarios."""
     return SCENARIOS
+
+
+def get_universal_rules():
+    """Return the shared rules every scenario adds to its prompt."""
+    return _UNIVERSAL_RULES
+
+
+def save_custom_scenario(prompt, opening, name="Custom Scenario"):
+    """
+    Save a user-written scenario to a file so the server can use it.
+    A custom scenario has id 0.
+    """
+    data = {
+        "id": 0,
+        "name": name,
+        "opening": opening,
+        "prompt": prompt,
+    }
+    with open(CUSTOM_SCENARIO_FILE, "w") as f:
+        json.dump(data, f, indent=2)
+    print(f"[Scenarios] Custom scenario saved to: {CUSTOM_SCENARIO_FILE}")
+
+
+def get_custom_scenario():
+    """
+    Load the saved custom scenario. Returns None if there isn't one yet.
+    """
+    if os.path.exists(CUSTOM_SCENARIO_FILE):
+        try:
+            with open(CUSTOM_SCENARIO_FILE) as f:
+                return json.load(f)
+        except (json.JSONDecodeError, OSError):
+            return None
+    return None
+
+
+def delete_custom_scenario():
+    """Remove the saved custom scenario file (if any)."""
+    if os.path.exists(CUSTOM_SCENARIO_FILE):
+        os.remove(CUSTOM_SCENARIO_FILE)
+        print(f"[Scenarios] Deleted custom scenario file")

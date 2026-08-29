@@ -62,6 +62,13 @@ off abruptly: once a call passes 30 turns, Maria asks the agent whether it
 still needs to continue; a "no" ends the call, a "yes" resets the counter
 and keeps the loop going.
 
+**Custom scenarios.** A scenario is just data — a prompt (what Maria should
+say and do) plus an opening line — so new ones need no code changes.
+`run_scenarios.py custom` lets a user write their own prompt interactively,
+saves it to `custom_scenario.json`, and the server treats it as scenario id
+0 at the same `/handle-call` webhook. This is how edge cases beyond the
+default 10 (billing complaints, unusual requests, etc.) get tested.
+
 The result is a system that behaves like a real (if persistent) patient:
 it answers verification questions correctly, steers every call toward its
 goal, survives interruptions, and produces full transcripts plus clean
