@@ -1,0 +1,10 @@
+[
+  {
+    "scenario": "rescheduling",
+    "scenario_id": 2,
+    "call_sid": "CAbfdce3334224be5d4e77a866ba2981b7",
+    "status": "completed",
+    "duration": "5",
+    "recording_file": "recordings/CAbfdce3334224be5d4e77a866ba2981b7.ogg"
+  }
+]

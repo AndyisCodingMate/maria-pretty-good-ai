@@ -1,0 +1,10 @@
+[
+  {
+    "scenario": "cancellation",
+    "scenario_id": 3,
+    "call_sid": "CAf0f227d232c830f93c4d9514080b9547",
+    "status": "completed",
+    "duration": "4",
+    "recording_file": "recordings/CAf0f227d232c830f93c4d9514080b9547.ogg"
+  }
+]
